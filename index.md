@@ -11,3 +11,7 @@ A Minecraft wiki created in markdown where explain how works my projects. (items
 ## Index
 - Addons
   - [Adventurecraft](adventurecraft)
+
+## Changelogs
+- Addons
+  - [Adventurecraft](adventurecraft/changelogs.md)

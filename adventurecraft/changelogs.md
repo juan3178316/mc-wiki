@@ -17,6 +17,7 @@
   - Now the Adventure bag use the `player.id` instead of a id generator created with AI.  <span style="color:#F01A1A;">`WARNING, if you're using the Adventure bag, make sure of pick the items or this items disappear`</span>
   - Now the code where save the items in the Adventure Bag, will save in a `class` instead of a `function`. <span style="color:#7CAF35;">We will improve the code soon.</span>
     - Fix a bug where use the Adventure bag first time.
+- Now bats drop the `bat scythe` with 25%.
 
 
 ## **V0.4.0 - release**

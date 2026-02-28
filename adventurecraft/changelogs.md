@@ -1,6 +1,6 @@
 # **changelogs**
 
-**V0.5.0 - release**
+## **V0.5.0 - release**
 - Remove HUD animations for `UI` optimization:
   - Dead animarion.
   - Good notices animation.
@@ -19,7 +19,7 @@
     - Fix a bug where use the Adventure bag first time.
 
 
-**V0.4.0 - release**
+## **V0.4.0 - release**
 - Bug fixes and Javascript optimization.
   - Script UI optimization.
 - New translate to language.
@@ -27,7 +27,7 @@
 - Fixed a bug that you can send notices in blank.
 
 
-**V0.3.0 - release**
+## **V0.3.0 - release**
   
 - added a new weapon: `bat scythe`. <span style="color:#FF9615;">`Experimental`</span>
   - damage: 6.
@@ -38,7 +38,7 @@
   - Script UI optimization.
 
 
-**V0.2.0 - release**
+## **V0.2.0 - release**
   
 - Fixed a transalation error in the language: `en-us`.
 - Bug fixes and Javascript optimization.
@@ -51,14 +51,14 @@
 - changes in the texture of the adventure bag.
 
 
-**V0.1.0 - release**
+## **V0.1.0 - release**
   
 - The resource pack URL has been updated `(previously used MCPEDL, now correctly uses CurseForge).`
 - Fixed some translation errors in the language: `es-es, es-mx`. 
 - Bug fixes and Javascript optimization.
 
 
-**V0.0.1 - beta**
+## **V0.0.1 - beta**
   
 - an item was censored for inappropriate content not allowed.
 - <span style="color:#F1C40F;">support to play without losing your achievements.</span>

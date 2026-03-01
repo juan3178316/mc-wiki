@@ -2,7 +2,7 @@
 
 ## **V0.5.0 - release**
 - Remove HUD animations for `UI` optimization:
-  - Dead animarion.
+  - Dead animation.
   - Good notices animation.
   - Title animation.
   - Red rulete animation. `(never used)`

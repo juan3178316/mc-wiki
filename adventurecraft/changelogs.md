@@ -1,5 +1,13 @@
 # **changelogs**
 
+## **V0.5.1 - release**
+### This update change something of custom totems that soon work like one (on 26.10 of Minecraft):
+- the max stack size is now on 1 instead of 5.
+- now the custom totems particles and sound works in the void.
+- Soon the custom totems code works on 26.10 of Minecraft, so you can get access in `scripts/fx/items/totems.js` or [get free access code in GitHub :)](https://github.com/juan3178316/minecraft-totems-recreation).
+- Fix a bug with the checked template message.
+
+
 ## **V0.5.0 - release**
 - Remove HUD animations for `UI` optimization:
   - Dead animation.

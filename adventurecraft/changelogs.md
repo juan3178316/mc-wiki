@@ -1,5 +1,19 @@
 # **changelogs**
 
+## **V0.6.0 - release**
+- Added Adventure table block.
+  - move some recipes at the adventure table:
+    - All custom totems.
+    - Crazy candy.
+    - Adventure bag.
+    - Cherry heart.
+    - Relic bom guard.
+    - Guide book. (so works in crafting table)
+
+
+<!--V0.5.2 doesn't exists-->
+
+
 ## **V0.5.1 - release**
 ### This update change something of custom totems that soon work like one (on 26.10 of Minecraft):
 - the max stack size is now on 1 instead of 5.

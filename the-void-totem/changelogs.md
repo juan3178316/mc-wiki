@@ -1,5 +1,10 @@
 # **changelogs**
 
+## **V1.2.1 - realease**
+- Fix a bug that when a player give `the void totem`, the translate show green.
+  - Added `TP safety` in the item text.
+
+
 ## **V1.2.0 - release**
 - The void totem teleport safety when fall in the end void.
 - The totem require an ender pearl for craft.

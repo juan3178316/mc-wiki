@@ -1,6 +1,6 @@
 # **changelogs**
 
-## **V1.2.1 - realease**
+## **V1.2.1 - release**
 - Fix a bug that when a player give `the void totem`, the translate show green.
   - Added `TP safety` in the item text.
 

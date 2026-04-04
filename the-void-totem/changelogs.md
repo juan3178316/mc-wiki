@@ -1,5 +1,14 @@
 # **changelogs**
 
+## **V1.3.0 - release**
+- Now this addon is compatibility with <span style="color:#FBBB24;">achivements.</span> so you can't lose your achivements in your worlds.
+- Now this addon is compatibility with <span style="color:#EA56D6;">Vibrant visuals.</span> _This feature is experimental, so you can find errors with this one._
+- Bug fixes and improve in Javascript code:
+  - Now the void totem teleport to 4 blocks close yours friends instead of 5 blocks.
+  - Remove the component `EntityComponentTypes`.
+  - The totem now remove any Efect status.
+
+
 ## **V1.2.1 - release**
 - Fix a bug that when a player give `the void totem`, the translate show green.
   - Added `TP safety` in the item text.

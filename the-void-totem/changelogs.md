@@ -1,12 +1,27 @@
 # **changelogs**
 
+## **V1.4.0 - release**
+- Now the void totem support the void of 3 dimensions  (<span style="color:#6BD950;">`Overworld`</span>, <span style="color:#D54A20;">`Nether`</span>, <span style="color:#D3A1EE;">`The End`</span>).
+- Now the `TP safety` is adjusted at the dimensions min height and works if the player is down of that value.
+- Now if the `TP safety` TP you at the top of dimension, you receive the effect `snow falling` during 45 seconds.
+- Now this addon support multilanguage:
+  - `es-MX`.
+  - `en-US`.
+(_In next updates will add more languages._)
+- Changes in the void totem crafting:
+  - Now it's added a feather at the crafting.
+  - Now when you uncrafting the void totem return the feather.
+ - Update the format version recipes of `1.12` to `1.26.10`
+ - Remove the behavior pack capacibility `script_eval`.
+
+
 ## **V1.3.0 - release**
 - Now this addon is compatibility with <span style="color:#FBBB24;">achivements.</span> so you can't lose your achivements in your worlds.
 - Now this addon is compatibility with <span style="color:#EA56D6;">Vibrant visuals.</span> _This feature is experimental, so you can find errors with this one._
 - Bug fixes and improve in Javascript code:
   - Now the void totem teleport to 4 blocks close yours friends instead of 5 blocks.
   - Remove the component `EntityComponentTypes`.
-  - The totem now remove any Efect status.
+  - The totem now remove any Effect status.
 
 
 ## **V1.2.1 - release**

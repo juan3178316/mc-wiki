@@ -1,5 +1,16 @@
 # **changelogs**
 
+# **V1.5.1 - release (HOTFIX)**
+- Now the sound `mob.endermen.portal`, play in 60 ticks (3 seconds) after you pop the void totem.
+- Now you can teleport to the center block after to use the void totem with the lodestone effect.
+- Added colors to the text, (Chat, Action bar, item lore, etc.)
+- Now the void totem not keep their properties after to be used.
+- Now this addon support multilanguage:
+  - `pt-BR`.
+  - `zh-CN`.
+(_In next updates will add more languages._)
+- Bug fixes and improve in Javascript code.
+
 ## **V1.5.0 - release**
 - Now for you receive the `slow falling` effect when teleport at the top of dimension, the player need to be falling in the air.
 - Now you can teleport anywhere interacting with a lodestone. `(BETA)`

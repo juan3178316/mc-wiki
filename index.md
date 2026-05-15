@@ -12,8 +12,10 @@ A Minecraft wiki created in markdown where explain how works my projects. (items
 - Addons
   - [Adventurecraft](adventurecraft)
   - [The void totem](the-void-totem)
+  - [Stackable totem](stackable-totem)
 
 ## Changelogs
 - Addons
   - [Adventurecraft](adventurecraft/changelogs.md)
   - [The void totem](the-void-totem/changelogs.md)
+  - [Stackable totem](stackable-totem/changelogs.md)

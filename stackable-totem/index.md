@@ -1,4 +1,8 @@
-<p style="text-align: center;">![addon title](https://media.forgecdn.net/attachments/description/null/description_13e80859-2c3d-43ee-b6cb-1e93a11aeb1e.png)</p><h1 style="text-align: left;">**<span style="color: rgb(241, 196, 15);">Description:</span>**</h1>
+<p style="text-align: center;">
+
+![addon title](https://media.forgecdn.net/attachments/description/null/description_13e80859-2c3d-43ee-b6cb-1e93a11aeb1e.png)
+
+</p><h1 style="text-align: left;"><span style="color: rgb(241, 196, 15);">Description:</span></h1>
 
 <span style="color: rgb(126, 140, 141);">¿Are you looking for an add-on that allow you have to stack your totems of undying without lost slot in your inventory? You are in the correct place. :3</span>
 
@@ -26,7 +30,11 @@
 
 # **<span style="color: rgb(185, 106, 217);">Testing</span>**
 
-<p style="text-align: center;">![Activate Pop totem](https://raw.githubusercontent.com/juan3178316/mc-wiki/refs/heads/main/media/gif/stackable_totem_pop_1_0_0-15_05_26-0.19.gif)</p><p style="text-align: center;"><span style="color: rgb(22, 145, 121);">when you stacked totem of undying pop, you lost 1 stack</span></p>
+<p style="text-align: center;">
+
+![Activate Pop totem](https://raw.githubusercontent.com/juan3178316/mc-wiki/refs/heads/main/media/gif/stackable_totem_pop_1_0_0-15_05_26-0.19.gif)
+
+</p><p style="text-align: center;"><span style="color: rgb(22, 145, 121);">when you stacked totem of undying pop, you lost 1 stack</span></p>
 
 ***
 

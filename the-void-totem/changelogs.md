@@ -1,5 +1,18 @@
 # **changelogs**
 
+## **V1.6.0 - release**
+- Fix a bug with action bar text that had some words with black color and not cyan color.
+- Bug fixes and improve in Javascript code:
+  - Now the callback use `{ cancel, damage, hurtEntity }` instead of `totems`. - Unstable property for now. :'/
+  - Now the void totem have a behavior more realistic with the totem of undying. (Now detect the `Offhand` first instead of `Mainhand`)
+- Fix a bug with the behavior pack name and description not support `pt-BR` and `zh-CN`language.
+- Now this addon support multilanguage:
+  - `es_ES`.
+  - `fr_FR`.
+  - `fr_CA`.
+(_In next updates will add more languages._)
+
+
 # **V1.5.1 - release (HOTFIX)**
 - Now the sound `mob.endermen.portal`, play in 60 ticks (3 seconds) after you pop the void totem.
 - Now you can teleport to the center block after to use the void totem with the lodestone effect.

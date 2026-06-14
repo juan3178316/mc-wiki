@@ -1,5 +1,31 @@
 # **changelogs**
 
+## **V1.6.1 - release**
+- Now the void totem `format_version` item it's updated from `1.21.100` to `1.26.0`.
+- Bug fixes and improve in Javascript code:
+  - Now `player;` `itemHand;` `itemLore;` variables in `TotemPlayerEffect()` class are removed because are not necessary write it.
+  - Now callback name is `call`.
+  - The pop of the void totem particle now generate less. <span style="color:#8ADA1B;">(Comming soon the particle effect change).</span>
+  - Fix a bug where the totem pop sound not reproduce when the lodestone block effect is in an unloaded chunk of player.
+  - Now the unstacking totem script detect correctly that player will have the effect. reason: before, the script detect the first player that have the same name to the player effect, now works by the player ID:
+  Before:
+  ```
+  this.player = world.getPlayers({name:namePlayer})[0];
+  ```
+  After:
+  ```
+  this.player = world.getPlayers().find(p => p.id == id);
+  ```
+  - A `function` was removed for execute a `class` directly.
+- Now this addon support multilanguage:
+  - `en_GB`.
+  - `pt_PT`.
+  - `zh_TW`.
+  - `ja_JP`.
+  - `ru_RU`.
+- Added file `contents.json` in resources and behaviors pack for index all files in this addon.
+
+
 ## **V1.6.0 - release**
 - Fix a bug with action bar text that had some words with black color and not cyan color.
 - Bug fixes and improve in Javascript code:

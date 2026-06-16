@@ -9,11 +9,11 @@
   - Fix a bug where the totem pop sound not reproduce when the lodestone block effect is in an unloaded chunk of player.
   - Now the unstacking totem script detect correctly that player will have the effect. reason: before, the script detect the first player that have the same name to the player effect, now works by the player ID:
   Before:
-  ```
+  ```typescript
   this.player = world.getPlayers({name:namePlayer})[0];
   ```
   After:
-  ```
+  ```typescript
   this.player = world.getPlayers().find(p => p.id == id);
   ```
   - A `function` was removed for execute a `class` directly.

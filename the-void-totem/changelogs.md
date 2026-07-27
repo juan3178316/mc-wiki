@@ -1,5 +1,33 @@
 # **changelogs**
 
+## **V2.0.0 - release**
+- Update the void totem item texture. (because other add-on use the "same" texture)
+  - update the void totem item texture MER for Vibrant Visual support.
+- Added attachable to the void totem (Now it's in 3D)
+  - The attachable item support emissive texture. (Glow in the dark)
+  - update the void totem attachable texture MER for Vibrant Visual support.
+- Update `min engine version` to 1.26.30, Now you require 26.30 Minecraft version to play this add-on.
+- Update `format_version` of this addon from `2` to `3`. (this is for add Pack settings in resource pack manifest)
+- Bug fixes and improve in Javascript code:
+  - Now update `@minecraft/server` to 2.8.0 for better coding.
+- I added to [LuisR18](https://curseforge.com/members/luisr18) in the credits authors. (He help me to make the void totem 3D item)
+  - Fix a bug if you're using a official Minecraft skin and not exported skin.
+- Added pack setting in the addon to fix a bug with void totem 3D item in skins. (in resource pack)
+  - You can change the pack setting config in-game.
+- Added subpacks.
+  - Those subpacks are:
+    - `2D item`: This subpack make your void totem like a normal 2D item.
+    - `3D item (Default)`: This subpack make the void totem in 3D model. (`coming soon with animations`)
+- Changes with the lodestone block effect:
+  - When you interact with the block:
+    - Plays the beacon sound.
+    - Plays a new particle that their color is from block coordinate. (`each 100 blocks reset the color value`)
+- Changes with the void totem pop effect:
+  - now have a new sound when pop the void totem.
+  - now have a new particle when poop the void totem. (`black, purple and magenta colors particles`)
+- Now for unlock the void totem recipe your require in your inventory: `feather, obsidian, totem of undying or an ender pearl`.
+
+
 ## **V1.6.1 - release**
 - Now the void totem `format_version` item it's updated from `1.21.100` to `1.26.0`.
 - Bug fixes and improve in Javascript code:

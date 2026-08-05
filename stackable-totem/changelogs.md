@@ -1,5 +1,8 @@
 # **changelogs**
 
+# **V2.0.1 - realease (Hotfix)**
+- Fix critical issues created in Minecraft 26.40
+
 ## **V2.0.0 - release**
 - Bug fixes and improve in Javascript code:
   - All JavaScript code is Flattened `(Flattening)`.

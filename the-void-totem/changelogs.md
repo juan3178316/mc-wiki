@@ -1,5 +1,13 @@
 # **changelogs**
 
+## **V2.1.0 - release**
+- Bug fixes and improve in Javascript code:
+  - Improve potion effect properties.
+  - Fix a critical bug that if you fall in the void, the void totem use 2 items instead of 1 item.
+    - This bug is existing in V1.6.1
+  - Now the void totem has a custom cooldown of 30 ticks (1.5 Second) for avoid spam consume item.
+  - Now when you fall in the void and use the void totem, you spawn in an area of 48 block of distance instead of 100 blocks.
+
 ## **V2.0.0 - release**
 - Update the void totem item texture. (because other add-on use the "same" texture)
   - update the void totem item texture MER for Vibrant Visual support.
